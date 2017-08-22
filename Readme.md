@@ -4,7 +4,7 @@ Intro:
 This is an updated (compared to my previous git repo) URL checker based on Python 3.
 
 Instructions To Run:
-Copy and paste the Checker.py file into your favorite IDE using running a Python 3 interpreter.
+Copy and paste the Checker.py file into your favorite IDE running a Python 3 interpreter.
 
 Notes:
 HTTPS support is only available if the socket module was compiled with SSL support. This does mean that some https sites will
